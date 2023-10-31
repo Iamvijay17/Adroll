@@ -22,13 +22,13 @@ li > a {
 }
 
 .resourceimg {
-  margin-left: 400px;
+  margin-left: 6%;
   /* only on xxl screen - marginleft */
   position: absolute;
-  padding-top: 10px;
-  padding-right: 50px;
-  padding-left: 50px;
-  padding-bottom: 0px;
+  padding-top: 1%;
+  padding-right: 1%;
+  padding-left: 5%;
+  padding-bottom: 0%;
   background-color: #303273;
   box-sizing: inherit;
   bottom: 0px;

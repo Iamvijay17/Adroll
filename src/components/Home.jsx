@@ -91,7 +91,8 @@ export const Home = () => {
                 <div className="row bg-light py-5">
                     <div className="col col-xl-2"></div>
                     <div className="col">
-                        <img src="https://www.adroll.com/assets/img/homepage/customers-find.png?format=png&auto=webp&width=398" alt="" />
+                        <img src="https://www.adroll.com/assets/img/homepage/customers-find.png?format=png&auto=webp&width=398" alt=""className='d-none d-sm-block' />
+                        <img src="https://www.adroll.com/assets/img/homepage/customers-find.png?format=png&auto=webp&width=340" alt="" className='d-block d-sm-noned-block d-sm-none' />
                     </div>
                     <div className="col col-12 col-lg-4"><p className=' fw-semibold font' style={{ fontSize: "28px" }}>For 15 years, we've been the leader <br className='d-none d-sm-block' /> in helping our customers find their <br className='d-none d-sm-block' />best customers</p> <p>The AdRoll platform is powered by 15+ years of data from <br className='d-none d-sm-block' />  hundreds of thousands of brands and billions of shoppers. Let our <br className='d-none d-sm-block' /> expertise find the right customers for your business.</p>
                         <a className='ms-1' href="#" style={{ color: "#cc66a0", textDecorationColor: "#ffe8e0", textDecorationThickness: "7px", margin: "-10px" }}>Learn more
@@ -108,7 +109,8 @@ export const Home = () => {
                         <a href="#" style={{ color: "#cc66a0", textDecorationColor: "#ffe8e0", textDecorationThickness: "7px", margin: "-10px" }}>Explore social ads manager
                             <img src="https://www.adroll.com/assets/svg/icon-arrow.svg" className='ms-1' alt="" /></a></div>
                     <div className='col'>
-                        <img src="https://www.adroll.com/assets/img/homepage/save-time.png?format=png&auto=webp&width=398" alt="" />
+                        <img src="https://www.adroll.com/assets/img/homepage/save-time.png?format=png&auto=webp&width=398" alt="" className='d-none d-sm-block'/>
+                        <img src="https://www.adroll.com/assets/img/homepage/save-time.png?format=png&auto=webp&width=340" alt="" className='d-block d-sm-none'/>
                     </div>
                     <div className='col-2 col-xl-2'></div>
 
@@ -118,7 +120,8 @@ export const Home = () => {
                 <div className='row py-5 bg-white' id="" >
                     <div className='col-2 col-xl-2'></div>
                     <div className='col'>
-                        <img src="https://www.adroll.com/assets/img/homepage/correct-choices.png?format=png&auto=webp&width=398" alt="" />
+                        <img src="https://www.adroll.com/assets/img/homepage/correct-choices.png?format=png&auto=webp&width=398" alt="" className='d-none d-sm-block'/>
+                        <img src="https://www.adroll.com/assets/img/homepage/correct-choices.png?format=png&auto=webp&width=340" alt="" className='d-block d-sm-none '/>
                     </div>
                     <div className='col'><p className='font fw-semibold' style={{ fontSize: "28px" }}>Our retargeting and brand <br className='d-none d-sm-block' />awareness ads make billions of<br /> correct choices every day</p>
                         <p className=''>Our AI does what even the most savvy marketer alone cannot. Our<br className='d-none d-sm-block' /> powerful machine learning makes more predictions per second<br className='d-none d-sm-block' /> than the NASDAQ to attract the right customers to your site and<br className='d-none d-sm-block' /> get them buying again and again.</p>
@@ -144,7 +147,8 @@ export const Home = () => {
                         <a href="#" style={{ color: "#cc66a0", textDecorationColor: "#ffe8e0", textDecorationThickness: "7px", margin: "-10px" }}>Get the support you deserve
                             <img src="https://www.adroll.com/assets/svg/icon-arrow.svg" className='ms-1' alt="" /></a></div>
                     <div className='col'>
-                        <img src="https://www.adroll.com/assets/img/homepage/experts.png?format=png&auto=webp&width=398" alt="" />
+                        <img src="https://www.adroll.com/assets/img/homepage/experts.png?format=png&auto=webp&width=398" alt="" className='d-none d-sm-block'/>
+                        <img src="https://www.adroll.com/assets/img/homepage/experts.png?format=png&auto=webp&width=340" alt="" className='d-block d-sm-none'/>
                     </div>
                     <div className='col-2 col-xl-2 d-none d-sm-block'></div>
 
