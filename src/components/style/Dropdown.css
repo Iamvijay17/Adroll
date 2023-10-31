@@ -1,0 +1,30 @@
+.pinkdots {
+  
+    background-repeat: repeat;
+    margin-top: 194px;
+    background-size: 126px;
+    position: relative;
+    background-position: right 45px bottom 20px;
+  background-image: url(https://www.adroll.com/assets/img/globals/bg-nav-platform.png);
+}
+
+li > a {
+  text-decoration: none;
+  color: #8e44ad;
+  font-size: min(1vw, 14px);
+}
+
+.fw-semibold > a {
+  color: black;
+}
+
+
+
+
+.dot{
+    opacity: 0.001;
+}
+
+
+
+

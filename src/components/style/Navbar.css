@@ -1,0 +1,53 @@
+.dropdown:hover > .dropdown-menu {
+  display: block;
+}
+
+.dropdown > .dropdown-toggle:active {
+  pointer-events: none;
+}
+
+/* .fullwidth {
+  background-color: aquamarine;
+} */
+
+.downarrow {
+  transition: transform 0.3s ease-in-out;
+}
+
+.nav-link:hover .downarrow {
+  transform: rotate(-180deg);
+}
+
+.dropdown-item{
+  padding: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+  color: #20b8f0;
+}
+
+.navbar-nav > li > .dmenu {
+  /* width: 100%; */
+  height: 300px;
+  position: absolute;
+  left: -250px;
+  /* top: 49px; */
+}
+
+.navbar-nav > li > .dmenu1 {
+  /* width: 100%; */
+  height: 350px;
+  position: absolute;
+  left: -650px;
+  
+}
+
+ul li a:hover{
+  color: #20b8f0;
+  text-decoration: underline;
+}
+
+

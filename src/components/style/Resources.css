@@ -1,0 +1,57 @@
+.pinkdots1 {
+  background-repeat: repeat;
+  margin-top: 45px;
+  background-size: 126px;
+  position: relative;
+  background-position: right 45px bottom 20px;
+  background-image: url(https://www.adroll.com/assets/img/globals/bg-nav-resources.png);
+}
+
+li > a {
+  text-decoration: none;
+  color: #8e44ad;
+  font-size: min(1vw, 14px);
+}
+
+.fw-semibold > a {
+  color: black;
+}
+
+.dot {
+  opacity: 0.001;
+}
+
+.resourceimg {
+  margin-left: 400px;
+  /* only on xxl screen - marginleft */
+  position: absolute;
+  padding-top: 10px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 0px;
+  background-color: #303273;
+  box-sizing: inherit;
+  bottom: 0px;
+}
+
+.whitedot {
+  background-image: url(https://www.adroll.com/assets/img/globals/bg-nav-resources-inverse.png);
+  background-size: 126px;
+  background-position: bottom;
+}
+
+#content {
+  background-color: #ffe8e0;
+  padding: 1.667em;
+  margin-left: auto;
+  margin-right: auto;
+  color: #3c4858;
+  font-size: 0.8rem;
+  position: absolute1;
+  border: 1.5px solid #cc66a0;
+  /* width: 200px; */
+  border-radius: 10px;
+}
+
+/* border: 3px;
+border-color: #8e44ad; */
